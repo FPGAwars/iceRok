@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/icon-icerok.svg?token=ABUVYIIIHXHBEIKPKRORW4K66RFVO" align="center">
 # iceRok
 Block probes for Icestudio => Sigrok integration  (with Pulseview GUI)
 
