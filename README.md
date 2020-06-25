@@ -29,6 +29,10 @@ Install Pulseview at [Sigrok page](https://sigrok.org/wiki/Downloads)
 
 On windows you need to put pulseview.exe in your PATH
 
+Add **probes as blocks** in your design and enjoy!
+
+
+
 ## Author
 
 * **Carlos Venegas Arrabé**,concepts and development [Github page](https://github.com/cavearr), [Twitter](https://twitter.com/cavearr)
