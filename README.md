@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/icon-icerok.svg" align="center">
+<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/banner-icerok.png" align="center">
 
 # iceRok
 
 Block probes for Icestudio => Sigrok integration  (with Pulseview GUI)
 
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/showroom.png" width="700" align="center">
+<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/showroom.png" width="100%" align="center">
 
 This blocks provide the ability of debug signals inside your FPGA design without the need of external logic analycer.
 
@@ -20,6 +20,17 @@ To capture data and show on pulseview, Icestudio has the iceRok plugin, that per
 
 
 This is a working progress repository and if you have any feedback, comments at issues tab, are very welcome.
+
+## Installing
+
+For the moment integration is in inmature state and is only in development branch of [Icestudio](https://github.com/FPGAwars/icestudio). Comming soon at [nightlybuilds](https://icestudio.io).
+
+Install Pulseview at [Sigrok page](https://sigrok.org/wiki/Downloads)
+
+On windows you need to put pulseview.exe in your PATH
+
+Add **probes as blocks** in your design and enjoy!
+
 
 
 ## Author
