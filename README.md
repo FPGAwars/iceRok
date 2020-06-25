@@ -23,7 +23,7 @@ This is a working progress repository and if you have any feedback, comments at 
 
 ## Installing
 
-For the moment integration is in inmature state and is only in development branch of [Github page](https://github.com/FPGAwars/icestudio). Comming soon at nightlybuilds [Github page](https://icestudio.io).
+For the moment integration is in inmature state and is only in development branch of [Icestudio](https://github.com/FPGAwars/icestudio). Comming soon at [nightlybuilds](https://icestudio.io).
 
 Install Pulseview at [Sigrok page](https://sigrok.org/wiki/Downloads)
 
