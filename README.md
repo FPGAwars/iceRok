@@ -4,7 +4,7 @@
 
 Block probes for Icestudio => Sigrok integration  (with Pulseview GUI)
 
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/showroom.png" width="700" align="center">
+<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/showroom.png" width="100%" align="center">
 
 This blocks provide the ability of debug signals inside your FPGA design without the need of external logic analycer.
 
