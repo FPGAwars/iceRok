@@ -207,6 +207,19 @@
           }
         },
         {
+          "id": "057181c5-3464-4512-947e-4af17473379b",
+          "type": "basic.constant",
+          "data": {
+            "name": "",
+            "value": "115200",
+            "local": false
+          },
+          "position": {
+            "x": 184,
+            "y": 288
+          }
+        },
+        {
           "id": "79d74347-e0e8-41be-8974-191315180789",
           "type": "e2b856e09a9329dca4a720ecad63740cfd415268",
           "position": {
@@ -397,6 +410,16 @@
             "port": "in"
           },
           "size": 8
+        },
+        {
+          "source": {
+            "block": "057181c5-3464-4512-947e-4af17473379b",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "bedb815b-fde5-4df0-8a71-e1457ffcdc72",
+            "port": "8a5bf514-6c36-4284-b0cd-7fe2124ef082"
+          }
         }
       ]
     }
