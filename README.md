@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/icon-icerok.svg" align="center">
+<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/banner-icerok.png" align="center">
 
 # iceRok
 
@@ -21,6 +21,13 @@ To capture data and show on pulseview, Icestudio has the iceRok plugin, that per
 
 This is a working progress repository and if you have any feedback, comments at issues tab, are very welcome.
 
+## Installing
+
+For the moment integration is in inmature state and is only in development branch of [Github page](https://github.com/FPGAwars/icestudio). Comming soon at nightlybuilds [Github page](https://icestudio.io).
+
+Install Pulseview at [Sigrok page](https://sigrok.org/wiki/Downloads)
+
+On windows you need to put pulseview.exe in your PATH
 
 ## Author
 
