@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/banner-icerok.png" align="center">
+![](images/banner-icerok.png)
 
 # iceRok
 
 Block probes for Icestudio => Sigrok integration  (with Pulseview GUI)
 
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/showroom.png" width="100%" align="center">
+![](images/showroom.png)
 
 This blocks provide the ability of debug signals inside your FPGA design without the need of external logic analycer.
 
@@ -14,7 +14,7 @@ The probe inputs are the signal bus, for the moment only 8bits signal bus, that 
 
 As parameter you can input the bit on signal bus that triggers capture and the number of clock cicles of capture (soon more blocks with capture by time )
 
-<img src="https://raw.githubusercontent.com/FPGAwars/iceRok/master/images/config.png" align="center">
+![](images/config.png)
 
 To capture data and show on pulseview, Icestudio has the iceRok plugin, that permits capture and show results on PulseView.
 
@@ -42,8 +42,7 @@ Add **probes as blocks** in your design and enjoy!
 
 * [FPGAwars](http://fpgawars.github.io/) community has developed this project in a voluntary and altruistic way since 02/2017.
 
-  <img src="https://avatars3.githubusercontent.com/u/18257418?s=100">
-
+![](https://avatars3.githubusercontent.com/u/18257418?s=100)
 
 
 ## License
