@@ -35,7 +35,8 @@ Add **probes as blocks** in your design and enjoy!
 
 ## Author
 
-* **Carlos Venegas Arrabé**,concepts and development [Github page](https://github.com/cavearr), [Twitter](https://twitter.com/cavearr)
+* **Carlos Venegas Arrabé**,creator, concepts and development [Github page](https://github.com/cavearr), [Twitter](https://twitter.com/cavearr)
+* **Juan González**,concepts and development [Github page](https://github.com/Obijuan), [Twitter](https://twitter.com/Obijuan_cube)
 
 ## Credits
 
