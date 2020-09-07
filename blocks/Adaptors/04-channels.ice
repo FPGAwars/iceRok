@@ -16,8 +16,9 @@
           "id": "a2b0b380-d10c-4e84-97f6-d7b8e3b23c97",
           "type": "basic.input",
           "data": {
-            "name": "ch1",
-            "clock": false
+            "name": "ch3",
+            "clock": false,
+            "virtual": false
           },
           "position": {
             "x": 200,
@@ -41,8 +42,9 @@
           "id": "4e37c2ab-beda-41a6-aa0a-5587860d426e",
           "type": "basic.input",
           "data": {
-            "name": "ch0",
-            "clock": false
+            "name": "ch2",
+            "clock": false,
+            "virtual": false
           },
           "position": {
             "x": 200,
