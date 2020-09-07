@@ -1,0 +1,22 @@
+{
+  "name": "icerok",
+  "version": "0.1.0",
+  "description": "Logic analyzer inside the FPGA",
+  "keywords": "measure, Logic analyzer",
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Carlos Venegas Arrabé",
+    "email": "",
+    "url": "https://github.com/cavearr"
+  }],
+  "contributors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "",
+    "url": "https://github.com/Obijuan"
+  }],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/FPGAwars/iceRok"
+  }
+}
