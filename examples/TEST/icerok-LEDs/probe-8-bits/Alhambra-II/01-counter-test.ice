@@ -255,18 +255,6 @@
           }
         },
         {
-          "id": "805b4e07-a842-4360-b13b-32b61d037c27",
-          "type": "a91f10523b090b71582f52eeff007acd6ca12a9f",
-          "position": {
-            "x": 784,
-            "y": 208
-          },
-          "size": {
-            "width": 96,
-            "height": 96
-          }
-        },
-        {
           "id": "016531fd-49f7-4ad7-af99-f9f5490080b2",
           "type": "basic.info",
           "data": {
@@ -329,6 +317,18 @@
             "width": 72,
             "height": 40
           }
+        },
+        {
+          "id": "6c6e7f81-99e6-4e92-827d-eff35f40536b",
+          "type": "504cd5d5ee6e705f10eb3082e9f600567f2f9add",
+          "position": {
+            "x": 784,
+            "y": 208
+          },
+          "size": {
+            "width": 96,
+            "height": 96
+          }
         }
       ],
       "wires": [
@@ -348,7 +348,7 @@
             "port": "997db8c4-b772-49d8-83e7-4427aff720e6"
           },
           "target": {
-            "block": "805b4e07-a842-4360-b13b-32b61d037c27",
+            "block": "6c6e7f81-99e6-4e92-827d-eff35f40536b",
             "port": "b1e41924-f354-4744-b5f0-a93a1fdc6828"
           }
         },
@@ -358,13 +358,13 @@
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
-            "block": "805b4e07-a842-4360-b13b-32b61d037c27",
+            "block": "6c6e7f81-99e6-4e92-827d-eff35f40536b",
             "port": "c854b40f-cd65-4890-bb71-16bafbf2354d"
           }
         },
         {
           "source": {
-            "block": "805b4e07-a842-4360-b13b-32b61d037c27",
+            "block": "6c6e7f81-99e6-4e92-827d-eff35f40536b",
             "port": "5b1bcd2c-0b1e-44fc-8073-342a0909b7b5"
           },
           "target": {
@@ -4085,7 +4085,7 @@
         }
       }
     },
-    "a91f10523b090b71582f52eeff007acd6ca12a9f": {
+    "504cd5d5ee6e705f10eb3082e9f600567f2f9add": {
       "package": {
         "name": "icerok-LEDs-8",
         "version": "0.1",
@@ -4215,50 +4215,8 @@
               "data": {
                 "name": "samples",
                 "range": "[7:0]",
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "6",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "5",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "4",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "3",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "2",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "1",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true,
-                "blockColor": "fuchsia"
+                "blockColor": "fuchsia",
+                "size": 8
               },
               "position": {
                 "x": 1304,
@@ -4271,49 +4229,7 @@
               "data": {
                 "name": "LED",
                 "range": "[7:0]",
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "6",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "5",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "4",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "3",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "2",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "1",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": false
+                "size": 8
               },
               "position": {
                 "x": 1480,
